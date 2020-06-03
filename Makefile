@@ -1,4 +1,4 @@
 rheader:
-			gcc -o hread hread.c
+			gcc -o hread hread2.c fileHandling.c
 clean:
 			rm hread
